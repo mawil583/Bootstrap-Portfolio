@@ -18,5 +18,22 @@
     width: 302px;
 } */
 
+#resume {
+    float: right !important;
+    font-size: 2em; 
+}
+
+.card-text {
+    color: green;
+    padding-top: 50%;
+    
+}
+
+#cardDiv1, #cardDiv2 {
+    display: block !important;
+}
 
 
+.card-img-top{
+    margin-bottom: -10px !important;
+}
