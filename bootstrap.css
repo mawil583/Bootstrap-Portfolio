@@ -36,9 +36,19 @@ cardDiv {
 .card-link {
     margin-right: -1rem;
     margin-left: -1rem !important;
+    line-height: 35px;
 }
-
+h3 {
+    margin-bottom: 0;
+    line-height: 40px;
+}
 
 .card-img-top{
     margin-bottom: -10px !important;
+}
+.card-body {
+    margin-top: -10px;
+    margin-bottom: -20px;
+    margin-left: -4px;
+    margin-right: -4px;
 }
