@@ -25,12 +25,17 @@
 
 .card-text {
     color: green;
-    padding-top: 50%;
+    /* padding-top: 50%; */
     
 }
 
-#cardDiv1, #cardDiv2 {
+cardDiv {
     display: block !important;
+}
+
+.card-link {
+    margin-right: -1rem;
+    margin-left: -1rem !important;
 }
 
 
