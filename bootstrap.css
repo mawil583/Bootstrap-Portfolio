@@ -22,6 +22,9 @@
     float: right !important;
     font-size: 2em; 
 }
+.nav-link {
+    font-size: 1.2em;
+}
 
 .card-text {
     color: green;
