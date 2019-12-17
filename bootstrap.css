@@ -18,6 +18,30 @@
     width: 302px;
 } */
 
+.footer-bg-color {
+    background-color: #2b7a78;
+}
+.navbar {
+    background-color: #2b7a78 !important;
+    /* color: #DEF2f1 !important; */
+
+}
+.btn-color {
+    background-color: #ad4040;
+}
+#name {
+    color: #feffff !important;
+}
+
+a.nav-color {
+    color: #feffff !important;
+}
+
+h1 {
+    color: #17252a;
+    /* color: #ff7171; */
+}
+
 #resume {
     float: right !important;
     font-size: 2em; 
@@ -30,6 +54,16 @@
     color: green;
     /* padding-top: 50%; */
     
+}
+.project-header-bgcolor {
+    background-color: #1f3824;
+}
+.jumbotron {
+    background-color: #d6dfdf !important;
+}
+
+#index-jumbotron {
+    min-height: 650px !important;
 }
 
 cardDiv {
